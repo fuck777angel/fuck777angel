@@ -5,7 +5,7 @@
 - <img src='https://github.com/microsoft/fluentui-emoji/blob/main/assets/Potted%20plant/3D/potted_plant_3d.png' style='height: 32px; width: auto;'> В настоящее время я изучаю такие языки программирования, как: \
 <img src='https://github.com/die-without-you/icons/Python-Dark.svg' style='height: 64px; widht: auto;'> <img src='https://github.com/die-without-you/icons/java.svg' style='height: 64px; widht: auto;'>
 - <img src='https://github.com/microsoft/fluentui-emoji/blob/main/assets/Gear/3D/gear_3d.png' style='height: 32px; width: auto;'> В настоящее время я использую такие инструменты, как: \
-<img src='https://github.com/die-without-you/icons/DiscordBots.svg' style='height: 64px; widht: auto;'><img src='https://github.com/die-without-you/icons/xenforo.svg' style='height: 64px; widht: auto;'> <img src='https://github.com/die-without-you/icons/FileZilla_logo.svg' style='height: 64px; widht: auto;'>
+<img src='https://github.com/die-without-you/icons/DiscordBots.svg' style='height: 64px; widht: auto;'><img src='https://github.com/die-without-you/icons/xenforo.svg' style='height: 64px; widht: auto;'> <img src='https://github.com/die-without-you/icons/tree/main/icons/FileZilla_logo.svg' style='height: 64px; widht: auto;'>
 
 <details>
   <summary><h3><img src='https://github.com/microsoft/fluentui-emoji/blob/main/assets/Chart%20increasing/3D/chart_increasing_3d.png' style='height: 32px; width: auto;'> Интересные цифры</h3></summary>
