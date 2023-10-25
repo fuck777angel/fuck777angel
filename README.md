@@ -3,9 +3,9 @@
 ## Меня звать данил <img src='https://github.com/microsoft/fluentui-emoji/blob/main/assets/Mechanical%20arm/3D/mechanical_arm_3d.png' style='height: 32px; width: auto;'>
 
 - <img src='https://github.com/microsoft/fluentui-emoji/blob/main/assets/Potted%20plant/3D/potted_plant_3d.png' style='height: 32px; width: auto;'> В настоящее время я изучаю такие языки программирования, как: \
-<img src='https://github.com/die-without-you/icons/Python-Dark.svg' style='height: 64px; widht: auto;'> <img src='https://github.com/die-without-you/icons/java.svg' style='height: 64px; widht: auto;'>
+<img src='https://github.com/die-without-you/icons/tree/main/icons/Python-Dark.svg' style='height: 64px; widht: auto;'> <img src='https://github.com/die-without-you/icons/tree/main/icons/java.svg' style='height: 64px; widht: auto;'>
 - <img src='https://github.com/microsoft/fluentui-emoji/blob/main/assets/Gear/3D/gear_3d.png' style='height: 32px; width: auto;'> В настоящее время я использую такие инструменты, как: \
-<img src='https://github.com/die-without-you/icons/DiscordBots.svg' style='height: 64px; widht: auto;'><img src='https://github.com/die-without-you/icons/xenforo.svg' style='height: 64px; widht: auto;'> <img src='https://github.com/die-without-you/icons/tree/main/icons/FileZilla_logo.svg' style='height: 64px; widht: auto;'>
+<img src='https://github.com/die-without-you/icons/tree/main/icons/DiscordBots.svg' style='height: 64px; widht: auto;'><img src='https://github.com/die-without-you/icons/tree/main/icons/xenforo.svg' style='height: 64px; widht: auto;'> <img src='https://github.com/die-without-you/icons/tree/main/icons/FileZilla_logo.svg' style='height: 64px; widht: auto;'>
 
 <details>
   <summary><h3><img src='https://github.com/microsoft/fluentui-emoji/blob/main/assets/Chart%20increasing/3D/chart_increasing_3d.png' style='height: 32px; width: auto;'> Интересные цифры</h3></summary>
@@ -16,14 +16,7 @@
   </ul>
 </details>
 
-<details>
-  <summary><h3><img src='https://github.com/microsoft/fluentui-emoji/blob/main/assets/Ice/3D/ice_3d.png' style='height: 32px; width: auto;'> Моя деятельность</h3></summary>
-  <ul>
-    <a href='https://discord.com/users/795951870366580766'><img src='https://lanyard.cnrad.dev/api/795951870366580766'></a>
-  </ul>
-</details>
-
-![](https://github.com/die-without-you/icons/toxi-contribution-grid-dark.svg)
+![](https://github.com/die-without-you/icons/tree/main/icons/toxi-contribution-grid-dark.svg)
 
 ![](https://komarev.com/ghpvc/?username=die-without-you&color=BC8BFD&style=flat-square)
 ![](https://hit.yhype.me/github/profile?user_id=65571116)
