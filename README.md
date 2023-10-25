@@ -2,9 +2,9 @@
 
 ## Меня зовут данил <img src='https://github.com/microsoft/fluentui-emoji/blob/main/assets/Mechanical%20arm/3D/mechanical_arm_3d.png' style='height: 32px; width: auto;'>
 
-- <img src='https://www.svgrepo.com/show/501820/pin.svg' style='height: 32px; width: auto;'> В настоящее время я изучаю такие языки программирования, как: \
+- <img src='https://www.svgrepo.com/show/501820/pin.svg' style='height: 32px; width: auto;'> Я изучаю такие языки программирования, как: \
 <img src='https://www.svgrepo.com/show/366496/text-x-python.svg' style='height: 64px;'> <img src='https://www.svgrepo.com/show/341935/intellijidea.svg' style='height: 64px; widht: auto;'> <img src= 'https://www.svgrepo.com/show/478223/css.svg' style='height: 64px'>
-- <img src='https://www.svgrepo.com/show/501820/pin.svg' style='height: 32px; width: auto;'> а также настоящее время я использую такие инструменты, как: \
+- <img src='https://www.svgrepo.com/show/501820/pin.svg' style='height: 32px; width: auto;'> А также в настоящее время я использую такие инструменты, как: \
 <img src='https://www.svgrepo.com/show/249757/css.svg' style='height: 64px; widht: auto;'><img src='https://www.svgrepo.com/show/331653/xenforo.svg' style='height: 64px; widht: auto;'> <img src='https://www.svgrepo.com/show/478748/html-tag.svg' style='height: 64px; widht: auto;'>
 
   <h1><img src='https://www.svgrepo.com/show/501820/pin.svg' style='height: 32px; width: auto;'> Интересные показатели</h1></summary>
