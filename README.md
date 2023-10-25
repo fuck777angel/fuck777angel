@@ -3,7 +3,7 @@
 ## Меня звать данил <img src='https://github.com/microsoft/fluentui-emoji/blob/main/assets/Mechanical%20arm/3D/mechanical_arm_3d.png' style='height: 32px; width: auto;'>
 
 - <img src='https://github.com/microsoft/fluentui-emoji/blob/main/assets/Potted%20plant/3D/potted_plant_3d.png' style='height: 32px; width: auto;'> В настоящее время я изучаю такие языки программирования, как: \
-<img src='https://github.com/die-without-you/icons/Python-Dark.svg' style='height: 64px; widht: auto;'> <img src='https://www.svgrepo.com/show/43101/java.svg' style='height: 64px; widht: auto;'>
+<img src='https://github.com/die-without-you/icons/Python-Dark.svg' style='height: 64px; widht: auto;'> <img src='https://github.com/die-without-you/icons/java.svg' style='height: 64px; widht: auto;'>
 - <img src='https://github.com/microsoft/fluentui-emoji/blob/main/assets/Gear/3D/gear_3d.png' style='height: 32px; width: auto;'> В настоящее время я использую такие инструменты, как: \
 <img src='https://github.com/die-without-you/icons/DiscordBots.svg' style='height: 64px; widht: auto;'><img src='https://github.com/die-without-you/icons/xenforo.svg' style='height: 64px; widht: auto;'> <img src='https://github.com/die-without-you/icons/FileZilla_logo.svg' style='height: 64px; widht: auto;'>
 
@@ -23,7 +23,7 @@
   </ul>
 </details>
 
-![](https://github.com/die-without-you/icons/github-contribution-grid-snake-dark.svg)
+![](https://github.com/die-without-you/icons/toxi-contribution-grid-dark.svg)
 
 ![](https://komarev.com/ghpvc/?username=die-without-you&color=BC8BFD&style=flat-square)
 ![](https://hit.yhype.me/github/profile?user_id=65571116)
