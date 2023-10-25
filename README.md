@@ -1,13 +1,13 @@
 ### Всем привет <img src='https://github.com/microsoft/fluentui-emoji/blob/main/assets/Waving%20hand/Dark/3D/waving_hand_3d_dark.png' style='height: 32px; width: auto;'>
 
-## Меня звать данил <img src='https://github.com/microsoft/fluentui-emoji/blob/main/assets/Mechanical%20arm/3D/mechanical_arm_3d.png' style='height: 32px; width: auto;'>
+## Меня зовут данил <img src='https://github.com/microsoft/fluentui-emoji/blob/main/assets/Mechanical%20arm/3D/mechanical_arm_3d.png' style='height: 32px; width: auto;'>
 
 - <img src='https://www.svgrepo.com/show/501820/pin.svg' style='height: 32px; width: auto;'> В настоящее время я изучаю такие языки программирования, как: \
 <img src='https://www.svgrepo.com/show/366496/text-x-python.svg' style='height: 64px;'> <img src='https://www.svgrepo.com/show/341935/intellijidea.svg' style='height: 64px; widht: auto;'> <img src= 'https://www.svgrepo.com/show/478223/css.svg' style='height: 64px'>
-- <img src='https://www.svgrepo.com/show/501820/pin.svg' style='height: 32px; width: auto;'> В настоящее время я использую такие инструменты, как: \
+- <img src='https://www.svgrepo.com/show/501820/pin.svg' style='height: 32px; width: auto;'> а также настоящее время я использую такие инструменты, как: \
 <img src='https://www.svgrepo.com/show/249757/css.svg' style='height: 64px; widht: auto;'><img src='https://www.svgrepo.com/show/331653/xenforo.svg' style='height: 64px; widht: auto;'> <img src='https://www.svgrepo.com/show/478748/html-tag.svg' style='height: 64px; widht: auto;'>
 
-  <h1><img src='https://www.svgrepo.com/show/501820/pin.svg' style='height: 32px; width: auto;'> Интересные цифры</h1></summary>
+  <h1><img src='https://www.svgrepo.com/show/501820/pin.svg' style='height: 32px; width: auto;'> Интересные показатели</h1></summary>
   <ul>
     <div><img src="https://github-readme-stats.vercel.app/api?username=die-without-you&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=merko"/></div>
     <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=die-without-you&langs_count=8&layout=compact&hide_border=true&card_width=445&theme=merko&count_private=true"/></div>
