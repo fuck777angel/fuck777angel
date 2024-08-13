@@ -1,6 +1,6 @@
 ### Всем привет <img src='https://github.com/microsoft/fluentui-emoji/blob/main/assets/Waving%20hand/Dark/3D/waving_hand_3d_dark.png' style='height: 32px; width: auto;'>
 
-## Меня зовут Хелл <img src='https://github.com/microsoft/fluentui-emoji/blob/main/assets/Mechanical%20arm/3D/mechanical_arm_3d.png' style='height: 32px; width: auto;'>
+## Меня зовут Хуй пойми кто <img src='https://github.com/microsoft/fluentui-emoji/blob/main/assets/Mechanical%20arm/3D/mechanical_arm_3d.png' style='height: 32px; width: auto;'>
 
   <h1><img src='https://www.svgrepo.com/show/501820/pin.svg' style='height: 32px; width: auto;'> Интересные показатели</h1></summary>
   <ul>
