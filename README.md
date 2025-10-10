@@ -1,5 +1,5 @@
 <h1 align="center">fuck777angel</h1>
-<p align="center"><i>Linux | Fedora | GNOME | Cybersecurity | Developer</i></p>
+<p align="center"><i>Java |\| Python |\| PhP |\| Backend |\| Fronted |\| C++ |\| C#</i></p>
 
 ---
 
