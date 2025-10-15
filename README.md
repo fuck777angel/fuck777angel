@@ -6,10 +6,6 @@
   <h3 align="center">developer fourclient -_- </h3>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="800" alt="snake animation" />
-</p>
-
 ---
 
 <h3 align="center">tech stack</h3>
@@ -36,6 +32,9 @@
   <img src="https://komarev.com/ghpvc/?username=fuck777angel&color=BC8BFD&style=flat-square" />
   <img src="https://img.shields.io/github/followers/fuck777angel?color=BC8BFD&logo=github&style=flat-square" />
   <img src="https://img.shields.io/github/stars/fuck777angel?color=BC8BFD&style=flat-square" />
+</p>
+
+<p align="center">
   <a href="https://github.com/fuck777angel" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-fuck777angel-BC8BFD?style=for-the-badge&logo=github" />
   </a>
