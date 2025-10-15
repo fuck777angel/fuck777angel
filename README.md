@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+  <img src="https://github.com/fuck777angel.png" width="100" style="border-radius:50%;border:2px solid #BC8BFD;">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=2000&color=BC8BFD&center=true&vCenter=true&width=600&lines=Welcome+to+fuck777angel;Creator+of+fourclient" />
 </p>
 
