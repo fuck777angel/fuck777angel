@@ -36,11 +36,6 @@
   <img src="https://komarev.com/ghpvc/?username=fuck777angel&color=BC8BFD&style=flat-square" />
   <img src="https://img.shields.io/github/followers/fuck777angel?color=BC8BFD&logo=github&style=flat-square" />
   <img src="https://img.shields.io/github/stars/fuck777angel?color=BC8BFD&style=flat-square" />
-</p>
-
----
-
-<p align="center">
   <a href="https://github.com/fuck777angel" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-fuck777angel-BC8BFD?style=for-the-badge&logo=github" />
   </a>
