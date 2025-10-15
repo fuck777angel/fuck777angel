@@ -1,79 +1,89 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" preserveAspectRatio="xMidYMid slice">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Terminal typing animation">
   <defs>
-    <linearGradient id="g" x1="0" x2="1">
+    <linearGradient id="bgGrad" x1="0" x2="1">
       <stop offset="0" stop-color="#0f1724"/>
       <stop offset="1" stop-color="#07060a"/>
     </linearGradient>
-    <linearGradient id="t" x1="0" x2="1">
+    <linearGradient id="accent" x1="0" x2="1">
       <stop offset="0" stop-color="#BC8BFD"/>
       <stop offset="0.6" stop-color="#ff6fcf"/>
       <stop offset="1" stop-color="#4fc3f7"/>
     </linearGradient>
-    <style><![CDATA[
-      .bg { fill: url(#g); }
-      .frame { fill: none; stroke: rgba(188,139,253,0.06); stroke-width: 1; }
-      .text { font: 18px 'Courier New', monospace; fill: #9fb7c9; opacity: 0.95; }
-      .prompt { font-weight:700; fill: url(#t); }
+    <style type="text/css"><![CDATA[
+      .bg { fill: url(#bgGrad); }
+      .titlebar { fill:#0b0b0f; opacity:0.45; }
+      .prompt { font: 700 18px 'Courier New', monospace; fill: url(#accent); }
+      .text { font: 18px 'Courier New', monospace; fill: #9fb7c9; opacity: 0.98; }
+      .cursor { fill:#ffffff; opacity:0.9; }
     ]]></style>
   </defs>
 
-  <rect width="1200" height="300" class="bg" rx="8"/>
+  <rect width="1200" height="300" rx="8" class="bg"/>
 
-  <rect x="12" y="12" width="1176" height="36" rx="6" fill="#0b0b0f" opacity="0.45"/>
-  <g transform="translate(24,36)">
-    <circle cx="8" cy="-6" r="5" fill="#ff5f56"/>
-    <circle cx="28" cy="-6" r="5" fill="#ffbd2e"/>
-    <circle cx="48" cy="-6" r="5" fill="#27c93f"/>
+  <rect x="12" y="12" width="1176" height="36" rx="6" class="titlebar"/>
+  <g transform="translate(36,32)">
+    <circle cx="0" cy="-6" r="5" fill="#ff5f56"/>
+    <circle cx="22" cy="-6" r="5" fill="#ffbd2e"/>
+    <circle cx="44" cy="-6" r="5" fill="#27c93f"/>
   </g>
 
   <g transform="translate(24,70)">
-    <rect width="1152" height="200" rx="8" fill="rgba(0,0,0,0)" stroke="rgba(255,255,255,0.02)"/>
-    
-    <text x="20" y="36" class="text"><tspan class="prompt">$</tspan> <tspan id="line1">booting AngelOS...</tspan></text>
-    <text x="20" y="72" class="text"><tspan class="prompt">$</tspan> <tspan id="line2"></tspan></text>
-    <text x="20" y="108" class="text"><tspan class="prompt">$</tspan> <tspan id="line3"></tspan></text>
-    <text x="20" y="144" class="text"><tspan class="prompt">$</tspan> <tspan id="line4"></tspan></text>
-    <text x="20" y="180" class="text"><tspan class="prompt">$</tspan> <tspan id="line5"></tspan></text>
-
-    <rect id="cursor" x="20" y="28" width="8" height="18" fill="#ffffff" opacity="0.85">
-      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
-    </rect>
+    <rect width="1152" height="200" rx="8" fill="rgba(255,255,255,0.02)" />
   </g>
 
-  <script type="application/ecmascript"><![CDATA[
-    // Some SVG viewers allow inline script, but GitHub doesn't execute JS in <svg> when embedded via <img>.
-    // So we instead use SMIL-like technique: create multiple <tspan> with different opacities timed via <animate>.
-  ]]></script>
-
-  <text x="20" y="36" class="text" opacity="0.0">
-    <tspan>booting fourclient...</tspan>
-    <animate attributeName="opacity" values="0;1" begin="0.2s" dur="0.01s" fill="freeze"/>
-  </text>
-
-  <text x="20" y="72" class="text" opacity="0">
-    <tspan>loading modules: terminal, gui, rain</tspan>
-    <animate attributeName="opacity" values="0;1" begin="1.6s" dur="0.01s" fill="freeze"/>
-  </text>
-
-  <text x="20" y="108" class="text" opacity="0">
-    <tspan>init: starting services...</tspan>
-    <animate attributeName="opacity" values="0;1" begin="3.2s" dur="0.01s" fill="freeze"/>
-  </text>
-
-  <text x="20" y="144" class="text" opacity="0">
-    <tspan>user: fuck777angel</tspan>
-    <animate attributeName="opacity" values="0;1" begin="4.6s" dur="0.01s" fill="freeze"/>
-  </text>
-
-  <text x="20" y="180" class="text" opacity="0">
-    <tspan>status: ready — type 'help' to start</tspan>
-    <animate attributeName="opacity" values="0;1" begin="6.0s" dur="0.01s" fill="freeze"/>
-  </text>
-
-  <g>
-    <animateTransform xlink:href="#cursor" attributeName="transform" type="translate"
-      values="0 0; 0 0; 340 0" begin="6.0s" dur="0.4s" fill="freeze"/>
+  <g transform="translate(40,100)">
+    <text class="text" x="0" y="0" opacity="0">
+      <tspan class="prompt">fuck777angel@fourclient:~$</tspan>
+      <tspan x="22" dy="0">booting fourclient...</tspan>
+      <animate attributeName="opacity" begin="0.2s" dur="0.01s" to="1" fill="freeze"/>
+    </text>
   </g>
+
+  <g transform="translate(40,136)">
+    <text class="text" x="0" y="0" opacity="0">
+      <tspan class="prompt">fuck777angel@fourclient:~$</tspan>
+      <tspan x="22" dy="0">loading modules: terminal, gui, rain</tspan>
+      <animate attributeName="opacity" begin="1.6s" dur="0.01s" to="1" fill="freeze"/>
+    </text>
+  </g>
+
+  <g transform="translate(40,172)">
+    <text class="text" x="0" y="0" opacity="0">
+      <tspan class="prompt">fuck777angel@fourclient:~$</tspan>
+      <tspan x="22" dy="0">init: starting services...</tspan>
+      <animate attributeName="opacity" begin="3.2s" dur="0.01s" to="1" fill="freeze"/>
+    </text>
+  </g>
+
+  <g transform="translate(40,208)">
+    <text class="text" x="0" y="0" opacity="0">
+      <tspan class="prompt">fuck777angel@fourclient:~$</tspan>
+      <tspan x="22" dy="0">user: fuck777angel</tspan>
+      <animate attributeName="opacity" begin="4.6s" dur="0.01s" to="1" fill="freeze"/>
+    </text>
+  </g>
+
+  <g transform="translate(40,244)">
+    <text class="text" x="0" y="0" opacity="0">
+      <tspan class="prompt">$</tspan>
+      <tspan x="22" dy="0">status: ready — type 'help' to start</tspan>
+      <animate attributeName="opacity" begin="6.0s" dur="0.01s" to="1" fill="freeze"/>
+    </text>
+  </g>
+
+  <rect id="cursor" class="cursor" x="22" y="184" width="8" height="18">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" />
+    <animateTransform attributeName="transform" type="translate" begin="6.0s" dur="0.4s" fill="freeze"
+      values="0,0; 340,0" />
+  </rect>
+
+  <defs>
+    <radialGradient id="v" cx="50%" cy="40%" r="80%">
+      <stop offset="0%" stop-color="#000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0.35"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="300" fill="url(#v)" rx="8" />
 
 </svg>
