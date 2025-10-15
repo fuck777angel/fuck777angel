@@ -22,8 +22,8 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fuck777angel&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=BC8BFD&icon_color=ff6fcf" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fuck777angel&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fuck777angel&count_private=true&include_all_commits=true&hide_border=true&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=BC8BFD&icon_color=BC8BFD" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuck777angel&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=0d1117&title_color=BC8BFD&icon_color=BC8BFD" height="165" />
 </p>
 
 <p align="center">
