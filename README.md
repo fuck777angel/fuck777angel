@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./glitch-grid.svg" width="100%" alt="glitch grid"/>
+  <img src="./terminal-typing.svg" width="100%" alt="terminal typing" />
 </p>
 
 <p align="center">
