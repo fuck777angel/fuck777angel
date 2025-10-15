@@ -7,13 +7,8 @@
 </p>
 
 <p align="center">
-  <h3 align="center">developer fourclient -_- </h3>
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/main/dist/hr/gradient.svg" width="100%" height="4">
 </p>
-
 
 <h3 align="center">tech stack</h3>
 <p align="center">
