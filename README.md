@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/matrix-rain.svg" width="100%" alt="matrix rain"/>
+  <img src="./glitch-grid.svg" width="100%" alt="glitch grid"/>
 </p>
 
 <h1 align="center">
