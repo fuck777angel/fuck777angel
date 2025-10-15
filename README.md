@@ -8,11 +8,6 @@
 </p>
 
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/badge/1190716479285506058" alt="Discord status" />
-</p>
-
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/main/dist/hr/gradient.svg" width="100%" height="4">
 </p>
 
