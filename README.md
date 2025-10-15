@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/badge/DISCORD_ID" alt="Discord status" />
+  <img src="https://lanyard.cnrad.dev/badge/1190716479285506058" alt="Discord status" />
 </p>
 
 
