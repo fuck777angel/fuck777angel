@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" height="auto" />
+  <img src="./assets/matrix-rain.svg" width="100%" alt="matrix rain"/>
 </p>
 
 <h1 align="center">
