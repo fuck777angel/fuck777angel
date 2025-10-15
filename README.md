@@ -6,8 +6,6 @@
   <h3 align="center">developer fourclient -_- </h3>
 </p>
 
----
-
 <h3 align="center">tech stack</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,php,cpp,cs,html,css,js,flask,qt,mysql,linux,git,vscode" />
