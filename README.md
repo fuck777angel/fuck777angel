@@ -2,11 +2,8 @@
   <img src="./glitch-grid.svg" width="100%" alt="glitch grid"/>
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=4000&pause=1000&color=BC8BFD&center=true&vCenter=true&width=600&lines=fuck777angel" alt="Typing SVG" />
-</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=2000&color=BC8BFD&center=true&vCenter=true&width=600&lines=Welcome+to+fuck777angel;Cyberpunk+Engineer;Creator+of+AngelOS" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=2000&color=BC8BFD&center=true&vCenter=true&width=600&lines=Welcome+to+fuck777angel;Creator+of+fourclient -_-" />
 </p>
 
 <p align="center">
