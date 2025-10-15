@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/0xAesthetic/github-bg/main/neon-grid.svg" width="100%" height="auto" alt="background">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" height="auto" />
 </p>
-
-
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=4000&pause=1000&color=BC8BFD&center=true&vCenter=true&width=600&lines=fuck777angel" alt="Typing SVG" />
@@ -10,18 +8,6 @@
 
 <p align="center">
   <h3 align="center">developer fourclient -_- </h3>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/main/dist/hr/gradient.svg" width="100%" height="4">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fuck777angel&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=15&margin-h=15" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/main/dist/hr/gradient.svg" width="100%" height="4">
 </p>
 
 <h3 align="center">tech stack</h3>
