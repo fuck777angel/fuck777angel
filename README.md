@@ -38,6 +38,17 @@
   <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/main/dist/hr/gradient.svg" width="100%" height="4">
 </p>
 
+<p align="center">
+  <a href="https://discord.gg/yourserver"><img src="https://img.shields.io/badge/Discord-BC8BFD?logo=discord&logoColor=white"></a>
+  <a href="https://t.me/fourclient"><img src="https://img.shields.io/badge/Telegram-4fc3f7?logo=telegram&logoColor=white"></a>
+  <a href="https://youtube.com/@anghatred"><img src="https://img.shields.io/badge/YouTube-ff6fcf?logo=youtube&logoColor=white"></a>
+</p>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/main/dist/hr/gradient.svg" width="100%" height="4">
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fuck777angel&color=BC8BFD&style=flat-square" />
